@@ -28,7 +28,7 @@ body {
   object-fit: contain;
 }
 
-button {
+.banner .banner-content button {
   color: #31A8DD;
   font-size: 1rem;
   font-weight: bold;
